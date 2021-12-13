@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Filete de ternera con salsa",
+    "qualification": 4.9,
+    "time": "25-30 min",
+    "categorie": "3",
+    "price": 14.99,
+    "image": "../assets/images/pexels-photo-675951.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Desayuno de primer plano lácteos",
+    "qualification": 4.7,
+    "time": "20-25 min",
+    "categorie": "3",
+    "price": 9.99,
+    "image": "../assets/images/pexels-photo-376464.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Burrito de pollo",
+    "qualification": 4.6,
+    "time": "25-30 min",
+    "categorie": "3",
+    "price": 13.99,
+    "image": "../assets/images/pexels-photo-461198.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Plato de salmón",
+    "qualification": 4.5,
+    "time": "25-30 min",
+    "categorie": "2",
+    "price": 15.99,
+    "image": "../assets/images/salmon-dish-food-meal-46239.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Postre",
+    "qualification": 4.8,
+    "time": "15-20 min",
+    "categorie": "2",
+    "price": 6.99,
+    "image": "../assets/images/pexels-photo-1099680.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "Sándwich servido en la tabla de cortar",
+    "qualification": 4.7,
+    "time": "10-15 min",
+    "categorie": "2",
+    "price": 9.99,
+    "image": "../assets/images/pexels-photo-1600711.jpeg"
+  },
+  {
+    "id": "7",
+    "name": "Plato de aguacate cocido",
+    "qualification": 4.4,
+    "time": "15-25 min",
+    "categorie": "3",
+    "price": 12.99,
+    "image": "../assets/images/pexels-photo-262959.jpeg"
+  },
+  {
+    "id": "8",
+    "name": "Hamburguesa",
+    "qualification": 4.6,
+    "time": "10-15 min",
+    "categorie": "3",
+    "price": 14.99,
+    "image": "../assets/images/pexels-photo-156114.jpeg"
+  }
+]
